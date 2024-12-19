@@ -42,6 +42,8 @@ Completa el formulario con los valores necesarios y selecciona si deseas incorpo
 🌟 Vista de la Interfaz
 ![Vista previa](image.png)
 
+##Puedes visitarla en https://fjmoisesromero.github.io/AnalisisNumerico/
+
 ## 🔬 Detalles técnicos
 Método de Gauss-Jordan
 El método implementado en el proyecto se encarga de:
