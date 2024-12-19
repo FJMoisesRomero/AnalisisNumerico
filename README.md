@@ -38,9 +38,9 @@ Abre el archivo index.html en tu navegador.
 
 Completa el formulario con los valores necesarios y selecciona si deseas incorporar barcazas adicionales.
 
-##📸 Capturas del proyecto
+## 📸 Capturas del proyecto
 🌟 Vista de la Interfaz
-![Vista de la Interfaz](ruta/a/tu/captura.png)
+![Vista previa](image.png)
 
 ## 🔬 Detalles técnicos
 Método de Gauss-Jordan
@@ -50,18 +50,18 @@ Escalonar la matriz: Convirtiendo la matriz de coeficientes en su forma escalona
 Resolver el sistema: Calculando las soluciones del sistema en función de las entradas del usuario.
 Ejemplo de matriz utilizada:
 Sin barcazas adicionales:
-plaintext
-Copiar código
+```plaintext
 [50, 20, 40]
 [30, 50, 30]
 [40, 50, 60]
+```
 Con barcazas adicionales:
-plaintext
-Copiar código
+```plaintext
 [50, 20, 40, 40, 20]
 [30, 50, 30, 20, 60]
 [40, 50, 60, 10, 30]
-##🤝 Contribuciones
+```
+## 🤝 Contribuciones
 
 ¡Las sugerencias o mejoras son bienvenidas! 
 
