@@ -31,7 +31,7 @@ Este es un proyecto universitario desarrollado para resolver sistemas de ecuacio
 Clona este repositorio en tu máquina local:
 
 ```plaintext
-git clone https://github.com/tu-usuario/proyecto-gauss-jordan.git
+git clone https://github.com/FJMoisesRomero/AnalisisNumerico.git
 
 ```
 Abre el archivo index.html en tu navegador.
